@@ -24,6 +24,6 @@ yarn start
 
 ### Testing on browser
 ```
-http:localhost:3000
+http://localhost:3000
 ```
 
